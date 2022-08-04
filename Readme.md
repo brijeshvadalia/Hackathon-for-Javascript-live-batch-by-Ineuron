@@ -54,7 +54,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-># [LIVE [HOSTED] PROJECT LINK](https://ineuron-homepage-brijesh8128.netlify.app/"Project-1-Hackathon--Netlify")
+># [LIVE [HOSTED] PROJECT LINK](https://ineuron-homepage-brijesh8128.netlify.app/ "Project-1-Hackathon--Netlify")
 >![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
 >![Screenshot](./screenshot/screenshot-3.png)
